@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1074680202705",
+    "project_id": "flutterempower",
+    "storage_bucket": "flutterempower.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074680202705:android:3619b7ee4f707dbfb2ccf0",
+        "android_client_info": {
+          "package_name": "com.example.empower1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074680202705-3rauokp7itd4l74spv8u15thi971b3na.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ5-Pf28APS-OXzINYJDBzuH8Mkqn6t8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074680202705-3rauokp7itd4l74spv8u15thi971b3na.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
